@@ -11,3 +11,6 @@ This repository contains Python notebooks related to Data Analysis.
 - Matplotlib
 - Mini Projects
 
+## Progress
+
+- [x] Day 01 - Variables
