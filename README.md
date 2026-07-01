@@ -14,3 +14,4 @@ This repository contains Python notebooks related to Data Analysis.
 ## Progress
 
 - [x] Day 01 - Variables
+- [x] Day 02 - Data Types 
