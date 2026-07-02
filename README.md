@@ -15,3 +15,4 @@ This repository contains Python notebooks related to Data Analysis.
 
 - [x] Day 01 - Variables
 - [x] Day 02 - Data Types 
+- [x] Day 03 - Addition & Division
