@@ -19,4 +19,5 @@ This repository contains Python notebooks related to Data Analysis.
 - [x] Day 04 - Numbers Swapping
 - [x] Day 05 - Calendar / Check Leap Year
 - [x] Day 06 - Check Number Prime or not
-- [x] Day 07 - prime numbers within an interval 
+- [x] Day 07 - prime numbers within an interval
+- [ ] Day 08 - Factorial Number And Multiplication Table
