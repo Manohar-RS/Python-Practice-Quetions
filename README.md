@@ -21,4 +21,5 @@ This repository contains Python notebooks related to Data Analysis.
 - [x] Day 06 - Check Number Prime or not
 - [x] Day 07 - prime numbers within an interval
 - [x] Day 08 - Factorial Number And Multiplication Table
-- [x] Day 09 - Print the Fibonacci sequence 
+- [x] Day 09 - Print the Fibonacci sequence
+- [x] Day 10 - Armstrong Number
