@@ -25,3 +25,4 @@ This repository contains Python notebooks related to Data Analysis.
 - [x] Day 10 - Armstrong Number
 - [x] Day 11 - Armstrong Number in an interval
 - [x] Day 12 - Numbers Conversion
+- [x] Day 13 - LCM and HCF
