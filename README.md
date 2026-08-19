@@ -26,4 +26,4 @@ This repository contains Python notebooks related to Data Analysis.
 - [x] Day 11 - Armstrong Number in an interval
 - [x] Day 12 - Numbers Conversion
 - [x] Day 13 - LCM and HCF
-- [ ] Day 14 - Calculate Factorial , Body mass index
+- [x] Day 14 - Calculate Factorial , Body mass index (BMI)
