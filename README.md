@@ -28,4 +28,4 @@ This repository contains Python notebooks related to Data Analysis.
 - [x] Day 13 - LCM and HCF
 - [x] Day 14 - Calculate Factorial , Body mass index (BMI)
 - [x] Day 15 - Array Operation
-- [ ] Day 16 - Array Manipulations
+- [x] Day 16 - Array Manipulations
