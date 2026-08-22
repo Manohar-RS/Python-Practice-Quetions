@@ -29,3 +29,4 @@ This repository contains Python notebooks related to Data Analysis.
 - [x] Day 14 - Calculate Factorial , Body mass index (BMI)
 - [x] Day 15 - Array Operation
 - [x] Day 16 - Array Manipulations
+- [ ] Day 17 - Remove Punctuation & Sorting Word of alphabetical order 
