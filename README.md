@@ -31,3 +31,4 @@ This repository contains Python notebooks related to Data Analysis.
 - [x] Day 16 - Array Manipulations
 - [x] Day 17 - Remove Punctuation & Sorting Word of alphabetical order
 - [x] Day 18 - List 1
+- [ ] Day 19 - List 2
