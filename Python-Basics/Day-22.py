@@ -1,5 +1,5 @@
 # Day 22
-# String 
+# find uncommon words and duplicates 
 
 # Write a Python program to find uncommon words from two Strings.
 
