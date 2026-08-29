@@ -1,6 +1,6 @@
-# Python Data Analysis | Interview Quetions & Answer
+# Python Data Analysis | Interview Quetions & Answers
 
-This repository contains Python notebooks related to Data Analysis.
+This repository contains Python notebooks related to Data Analysis and Practice Interview Questions
 
 ## Topics
 
