@@ -35,4 +35,4 @@ This repository contains Python notebooks related to Data Analysis and Practice 
 - [x] Day 20 - List 3
 - [x] Day 21 - String Manipulation Functions
 - [x] Day 22 - Find uncommon words and duplicates
-- [ ] Day 23 - Dictionary
+- [x] Day 23 - Dictionary
