@@ -36,4 +36,4 @@ This repository contains Python notebooks related to Data Analysis and Practice 
 - [x] Day 21 - String Manipulation Functions
 - [x] Day 22 - Find uncommon words and duplicates
 - [x] Day 23 - Dictionary
-- [ ] Day 24 - OrderedDict
+- [x] Day 24 - OrderedDict()
