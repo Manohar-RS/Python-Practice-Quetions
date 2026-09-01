@@ -1,5 +1,5 @@
 # Day 24
-# Orderdict
+# OrderedDict()
 
 # Write a Python program to insertion at the beginning in OrderedDict.
 
